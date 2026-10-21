@@ -12,5 +12,11 @@
   },
   "peerDependencies": {
     "typescript": "^7"
-  }
+  },
+  "dependencies": {
+    "biome": "^0.3.3"
+  },
+  "trustedDependencies": [
+    "core-js"
+  ]
 }
